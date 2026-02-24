@@ -4,12 +4,14 @@
 코딩 테스트 대비를 위한 문제 풀이 저장소입니다.
 
 ---
-
-## 📂 01_Implementation
-- BOJ 1001 A-B
-
----
-
 ## 목표
 - 하루 1문제 이상
 - 꾸준히 기록하기
+
+---
+
+## 📂 01_Implementation
+- BOJ 18108
+  숫자 하나 입력 -> int(input())
+  숫자 여러개 입력 -> map(int,input().split())
+  
